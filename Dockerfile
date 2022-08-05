@@ -6,7 +6,7 @@
 # distribution of this software and related documentation without an express
 # license agreement from NVIDIA CORPORATION is strictly prohibited.
 
-FROM nvcr.io/nvidia/tensorflow:22.01-tf2-py3
+FROM nvcr.io/nvidia/tensorflow:22.07-tf2-py3
 
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
